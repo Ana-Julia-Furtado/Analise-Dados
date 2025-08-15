@@ -39,7 +39,7 @@ O projeto foi dividido em **módulos de aprendizado**:
   - KPIs (média salarial, salário máximo, total de registros, cargo mais frequente)
   - Gráficos interativos (cargos, distribuição salarial, tipos de trabalho, mapa salarial por país)
 - Deploy no **Streamlit Cloud**:  
-👉 [Acesse o Dashboard Online](https://dashboard-salarios-dados.streamlit.app/)
+👉 [Acesse o Dashboard Online]([https://eh455ewsyc8spgrzbcmkym.streamlit.app/])
 
 ---
 
