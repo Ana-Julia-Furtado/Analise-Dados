@@ -6,7 +6,7 @@ Estrutura do Projeto
 
 O projeto foi dividido em **módulos de aprendizado**:
 
-### 🔹 Aula 1 – Análise Exploratória dos Dados (Pandas)
+### 🔹 Parte 1 – Análise Exploratória dos Dados (Pandas)
 - Carregamento e inspeção inicial do dataset
 - Verificação de linhas, colunas, tipos de dados e estatísticas descritivas
 - Renomeação das colunas para português
@@ -16,7 +16,7 @@ O projeto foi dividido em **módulos de aprendizado**:
   - Regime de trabalho (presencial, remoto, híbrido)
   - Tamanho da empresa (pequena, média, grande)
 
-### 🔹 Aula 2 – Preparação e Limpeza dos Dados
+### 🔹 Parte 2 – Preparação e Limpeza dos Dados
 - Identificação e tratamento de valores nulos (`NaN`)
 - Estratégias de preenchimento:
   - Média, mediana, forward fill (`ffill`), backward fill (`bfill`)
@@ -24,7 +24,7 @@ O projeto foi dividido em **módulos de aprendizado**:
 - Criação de `df_limpo` sem valores ausentes
 - Conversão de colunas para tipos adequados (ex.: `ano` para inteiro)
 
-### 🔹 Aula 3 – Visualização de Dados
+### 🔹 Parte 3 – Visualização de Dados
 - Criação de gráficos exploratórios:
   - Barras, histogramas e boxplots
   - Salário médio por senioridade
@@ -33,7 +33,7 @@ O projeto foi dividido em **módulos de aprendizado**:
   - Mapa coroplético de salários de **Data Scientists** por país
 - Ferramentas usadas: **Matplotlib**, **Seaborn** e **Plotly**
 
-### 🔹 Aula 4 – Construindo um Dashboard Interativo (Streamlit)
+### 🔹 Parte 4 – Construindo um Dashboard Interativo (Streamlit)
 - Criação de dashboard para explorar:
   - Filtros dinâmicos (ano, senioridade, contrato, tamanho da empresa)
   - KPIs (média salarial, salário máximo, total de registros, cargo mais frequente)
